@@ -1,12 +1,25 @@
-# React + Vite
+# Zishun Gao - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the portfolio of Zishun Gao! This is a personal website showcasing my skills, education, work experience, and projects.
 
-Currently, two official plugins are available:
+## Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view my live portfolio [here](https://jade-dango-98e6cc.netlify.app/).
 
-## Expanding the ESLint configuration
+## About
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I am a dedicated fourth-year student pursuing a B.Sc. in Information and Communication Technology at Mahidol University, with an expected graduation in June 2025. I'm passionate about software development, programming, and engineering solutions for real-world challenges. My expertise spans both backend and full-stack development, and I am eager to contribute to innovative projects.
+
+## Features
+
+- **Work Experience**: Highlighting my internships and projects in software development.
+- **Skills**: A showcase of the programming languages and tools I'm proficient in.
+- **Projects**: An overview of the personal and academic projects I've worked on.
+- **Contact**: Information for reaching out to me professionally.
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Node.js
+- GitHub Pages / Netlify for Deployment
