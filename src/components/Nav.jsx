@@ -18,7 +18,7 @@ const Nav = () => {
                     <a href="#interests" className="px-3">Interests</a>
                     <a href="#contact" className="px-3">Contact</a>
                     <a
-                        href="../../public/ZISHUN_GAO.pdf"
+                        href="/ZISHUN_GAO.pdf"
                         download="Zishun_Gao_Resume.pdf"
                         className="px-3 bg-[#E56138] rounded-lg text-[#FAFAF7]"
                     >
@@ -48,7 +48,7 @@ const Nav = () => {
                     <a href="#interests" className="px-3">Interests</a>
                     <a href="#contact" className="px-3">Contact</a>
                     <a
-                        href="../../public/ZISHUN_GAO.pdf"
+                        href="/ZISHUN_GAO.pdf"
                         download="Zishun_Gao_Resume.pdf"
                         className="block w-full px-3 py-2 bg-[#E56138] rounded-lg text-[#FAFAF7]"
                     >
