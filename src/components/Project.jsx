@@ -4,7 +4,7 @@ const projectData = [
         date: "Apr. 2025",
         description: "Built a cloud-ready RESTful API for emotion tracking.",
         skills: ["Go", "Fiber", "GORM", "PostgreSQL", "Docker", "Render"],
-        image: "../../public/modTracker.png",
+        image: "/modTracker.png",
         link: "https://github.com/ZishunD/mood-tracker",
     },
     {
@@ -13,7 +13,7 @@ const projectData = [
         description:
             "Developed a password generator supporting CLI and web modes. Implemented customizable password length, complexity, and generation history.",
         skills: ["Python", "Flask", "Tailwindcss", "Docker", "Render"],
-        image: "../../public/pygen.png",
+        image: "/pygen.png",
         link: "https://pypassgen.onrender.com/",
     },
     {
@@ -22,7 +22,7 @@ const projectData = [
         description:
             "A travel app designed for Chinese tourists in Thailand, offering features like travel plan sharing, location filters, and translation assistance.",
         skills: ["Go", "Fiber", "GORM", "PostgreSQL", "Docker", "Render"],
-        image: "../../public/senior.png",
+        image: "/senior.png",
         link: "https://github.com/donaldsevegoth0/siamTrip",
     },
 ];
