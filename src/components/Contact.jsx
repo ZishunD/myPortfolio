@@ -27,13 +27,13 @@ const Contact = () => {
                 {/* Right Column */}
                 <div className="flex-1 space-y-6">
                     {/* GitHub */}
-                    <a href="https://github.com/your-profile" className="flex items-center text-gray-700 hover:text-black">
+                    <a href="https://github.com/ZishunD" className="flex items-center text-gray-700 hover:text-black">
                         <i className="fab fa-github fa-lg mr-4"></i>
                         Visit My GitHub
                     </a>
 
                     {/* LinkedIn */}
-                    <a href="https://linkedin.com/in/your-profile" className="flex items-center text-gray-700 hover:text-black">
+                    <a href="https://www.linkedin.com/in/zishun-d-gao-60755b263/" className="flex items-center text-gray-700 hover:text-black">
                         <i className="fab fa-linkedin fa-lg mr-4"></i>
                         Visit My LinkedIn
                     </a>
