@@ -11,10 +11,10 @@ const Nav = () => {
                 {/* Menu for large screens (always visible) */}
                 <div className="hidden lg:flex space-x-6">
                     <a href="#about" className="px-3">About</a>
-                    <a href="#skills" className="px-3">Skills</a>
-                    <a href="#projects" className="px-3">Projects</a>
                     <a href="#education" className="px-3">Education</a>
                     <a href="#work" className="px-3">Work Experience</a>
+                    <a href="#skills" className="px-3">Skills</a>
+                    <a href="#projects" className="px-3">Projects</a>
                     <a href="#interests" className="px-3">Interests</a>
                     <a href="#contact" className="px-3">Contact</a>
                     <a
@@ -40,13 +40,13 @@ const Nav = () => {
             {/* Dropdown Menu for Small Screens */}
             {isOpen && (
                 <div className="lg:hidden mt-4 space-y-4">
-                    <a href="#about" className="block px-3 py-2">About</a>
-                    <a href="#skills" className="block px-3 py-2">Skills</a>
-                    <a href="#projects" className="block px-3 py-2">Projects</a>
-                    <a href="#education" className="block px-3 py-2">Education</a>
-                    <a href="#work" className="block px-3 py-2">Work Experience</a>
-                    <a href="#interests" className="block px-3 py-2">Interests</a>
-                    <a href="#contact" className="block px-3 py-2">Contact</a>
+                    <a href="#about" className="px-3">About</a>
+                    <a href="#education" className="px-3">Education</a>
+                    <a href="#work" className="px-3">Work Experience</a>
+                    <a href="#skills" className="px-3">Skills</a>
+                    <a href="#projects" className="px-3">Projects</a>
+                    <a href="#interests" className="px-3">Interests</a>
+                    <a href="#contact" className="px-3">Contact</a>
                     <a
                         href="../../public/ZISHUN_GAO.pdf"
                         download="Zishun_Gao_Resume.pdf"
