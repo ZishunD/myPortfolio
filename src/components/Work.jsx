@@ -7,7 +7,7 @@ const Work = () => {
                 </div>
                 <div className="my-[2vh]">
                     <img
-                        src="../../public/logotest.png"
+                        src="/logotest.png"
                         alt="logo"
                         className="w-[50vw] sm:w-[20vw] mx-auto"
                     />
