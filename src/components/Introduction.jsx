@@ -1,6 +1,6 @@
 const Introduction = () => {
     return (
-        <div className="flex flex-col md:flex-row items-center md:items-start px-4 md:px-[10vw] py-8 font-serif mt-[10vh]">
+        <div className="flex flex-col md:flex-row items-center md:items-start px-4 md:px-[10vw] py-8 font-serif mt-[10vh] transition-all duration-500 ease-in-out">
             <div className="w-full md:w-3/5">
                 <img
                     className="w-full h-48 md:h-60 rounded object-cover"

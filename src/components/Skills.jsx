@@ -68,7 +68,7 @@ const Skills = () => {
     return (
         <div className="skills font-serif mx-4 lg:mx-[10vw] my-6 lg:my-[5vh]" id='skills'>
             <div className="title text-xl font-bold mb-4 text-center lg:text-left">Technical Skills</div>
-            <div className="flex flex-col w-full">
+            <div className="flex flex-col w-[80vw] mx-[8vw] lg: w-full mx-auto">
                 <Dropdown
                     label="Programming Languages"
                     skills={[

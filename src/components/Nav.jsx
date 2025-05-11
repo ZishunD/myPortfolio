@@ -4,7 +4,7 @@ const Nav = () => {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
-        <nav className="font-serif text-[#1C120D] px-6 py-6 bg-white shadow fixed top-0 left-0 w-full z-50">
+        <nav className="font-serif text-[#1C120D] px-6 py-6 bg-white shadow fixed top-0 left-0 w-full z-50 transition-all duration-500 ease-in-out">
             <div className="flex justify-between items-center">
                 <span className="text-xl font-bold">Zishun Gao</span>
 

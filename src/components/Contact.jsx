@@ -1,6 +1,6 @@
 const Contact = () => {
     return (
-        <div className="contact font-serif px-4 py-8 md:px-16 mx-[6vw]" id="contact">
+        <div className="contact font-serif px-4 py-8 md:px-16 mx-[6vw] transition-all duration-500 ease-in-out" id="contact">
             <div className="title text-2xl font-bold mb-6">
                 Contact
             </div>

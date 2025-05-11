@@ -1,7 +1,7 @@
 const Work = () => {
     return (
         <>
-            <div className="work font-serif mx-[10vw] my-[5vh]" id="work">
+            <div className="work font-serif mx-[10vw] my-[5vh] transition-all duration-500 ease-in-out" id="work">
                 <div className="title text-xl font-bold">
                     Work Experience
                 </div>

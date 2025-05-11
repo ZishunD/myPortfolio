@@ -21,28 +21,32 @@ const interestsData = [
 
 const Interests = () => {
     return (
-        <div className="Interests font-serif px-[5vw] py-[5vh] mx-[5vw]" id="interests">
+        <div className="Interests font-serif mx-[10vw] my-[10vh]" id="interests">
             <div className="title text-2xl font-bold mb-6">Interests</div>
-            <div className="flex flex-wrap justify-center gap-6">
-                {interestsData.map((interest, i) => (
-                    <div
-                        key={i}
-                        className="w-full max-w-sm min-w-[280px] rounded overflow-hidden shadow-lg bg-white flex-shrink-0"
-                    >
-                        <img
-                            className="w-full h-40 object-cover"
-                            src={interest.image}
-                            alt={interest.title}
-                        />
-                        <div className="px-6 py-4">
-                            <div className="font-bold text-xl mb-2">{interest.title}</div>
-                            <p className="text-gray-700 text-base">{interest.description}</p>
+
+            <div className="lg:flex lg:flex-wrap lg:justify-center gap-6 overflow-x-auto scrollbar-hide flex-nowrap w-full">
+                <div className="flex lg:flex-wrap gap-6 lg:justify-center w-max">
+                    {interestsData.map((interest, i) => (
+                        <div
+                            key={i}
+                            className="min-w-[280px] max-w-sm rounded overflow-hidden shadow-lg bg-white flex-shrink-0"
+                        >
+                            <img
+                                className="w-full h-40 object-cover"
+                                src={interest.image}
+                                alt={interest.title}
+                            />
+                            <div className="px-6 py-4">
+                                <div className="font-bold text-xl mb-2">{interest.title}</div>
+                                <p className="text-gray-700 text-base">{interest.description}</p>
+                            </div>
                         </div>
-                    </div>
-                ))}
+                    ))}
+                </div>
             </div>
         </div>
     );
 };
+
 
 export default Interests;
