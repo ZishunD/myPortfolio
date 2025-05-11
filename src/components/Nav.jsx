@@ -39,7 +39,7 @@ const Nav = () => {
 
             {/* Dropdown Menu for Small Screens */}
             {isOpen && (
-                <div className="lg:hidden mt-4 space-y-4">
+                <div className="flex flex-col lg:hidden mt-4 space-y-4">
                     <a href="#about" className="px-3">About</a>
                     <a href="#education" className="px-3">Education</a>
                     <a href="#work" className="px-3">Work Experience</a>
@@ -50,7 +50,7 @@ const Nav = () => {
                     <a
                         href="/ZISHUN_GAO.pdf"
                         download="Zishun_Gao_Resume.pdf"
-                        className="block w-full px-3 py-2 bg-[#E56138] rounded-lg text-[#FAFAF7]"
+                        className="block w-auto px-3 py-2 bg-[#E56138] rounded-lg text-[#FAFAF7] text-center"
                     >
                         RESUME
                     </a>

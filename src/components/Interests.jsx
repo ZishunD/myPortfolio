@@ -24,8 +24,8 @@ const Interests = () => {
         <div className="Interests font-serif mx-[10vw] my-[10vh]" id="interests">
             <div className="title text-2xl font-bold mb-6">Interests</div>
 
-            <div className="lg:flex lg:flex-wrap lg:justify-center gap-6 overflow-x-auto scrollbar-hide flex-nowrap w-full">
-                <div className="flex lg:flex-wrap gap-6 lg:justify-center w-max">
+            <div className="2xl:flex 2xl:flex-wrap 2xl:justify-center gap-6 overflow-x-auto scrollbar-hide flex-nowrap w-full">
+                <div className="flex 2xl:flex-wrap gap-6 2xl:justify-center w-max">
                     {interestsData.map((interest, i) => (
                         <div
                             key={i}
