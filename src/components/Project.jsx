@@ -1,6 +1,6 @@
 const projectData = [
     {
-        title: "Mode Track APIs",
+        title: "Mood Track APIs",
         date: "Apr. 2025",
         description: "Built a cloud-ready RESTful API for emotion tracking.",
         skills: ["Go", "Fiber", "GORM", "PostgreSQL", "Docker", "Render"],
