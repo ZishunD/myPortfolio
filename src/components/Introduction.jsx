@@ -13,7 +13,7 @@ const Introduction = () => {
                     <span className="name font-bold text-2xl md:text-3xl block">ZISHUN GAO</span>
                 </div>
                 <div className="mt-2">
-                    <span className="title font-bold text-lg md:text-xl block">New Graduate Programmer</span>
+                    <span className="title font-bold text-lg md:text-xl block">Full Stack Developer</span>
                 </div>
                 <div className="desc mt-4">
                     <p className="text-base text-[#1C120D]">An irrational world is just a program in need of debugging.</p>
