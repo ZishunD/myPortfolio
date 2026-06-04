@@ -13,8 +13,8 @@ const Education = () => {
                     />
                     <div className="md:ml-8 mt-4 md:mt-0">
                         <div className="flex flex-col sm:flex-row gap-4 text-sm md:text-base">
-                            <p className="duration">2021 - Present</p>
-                            <p className="GPA">GPA: 2.39</p>
+                            <p className="duration">2021 - 2025</p>
+                            <p className="GPA">GPA: 2.45</p>
                         </div>
                         <div className="mt-3">
                             <p className="uniName font-bold text-lg md:text-xl">Mahidol University</p>
