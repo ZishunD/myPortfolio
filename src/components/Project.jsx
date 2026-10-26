@@ -53,7 +53,7 @@ const projectData = [
 
 const Projects = () => {
     return (
-        <div className="projects font-serif mx-[10vw]" id="projects">
+        <div className="projects font-serif mx-[10vw] my-10" id="projects">
             <div className="title text-2xl font-bold mb-6">Projects</div>
             <div className="overflow-x-auto scrollbar-hide">
                 <div className="flex gap-6 flex-nowrap w-max">

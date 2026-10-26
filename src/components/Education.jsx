@@ -1,6 +1,6 @@
 const Education = () => {
     return (
-        <div className="education font-serif px-4 py-8 md:px-16 max-w-5xl mx-[6vw] transition-all duration-500 ease-in-out" id="education">
+        <div className="education font-serif mx-[10vw] py-8 max-w-5xl mx-[6vw] transition-all duration-500 ease-in-out" id="education">
             <div className="title text-2xl md:text-3xl font-bold mb-6">
                 Education
             </div>
@@ -14,7 +14,7 @@ const Education = () => {
                     <div className="md:ml-8 mt-4 md:mt-0">
                         <div className="flex flex-col sm:flex-row gap-4 text-sm md:text-base">
                             <p className="duration">2021 - 2025</p>
-                            <p className="GPA">GPA: 2.45</p>
+                            <p className="track">Track: Software Engineering</p>
                         </div>
                         <div className="mt-3">
                             <p className="uniName font-bold text-lg md:text-xl">Mahidol University</p>
