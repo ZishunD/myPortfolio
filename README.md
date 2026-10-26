@@ -8,7 +8,7 @@ You can view my live portfolio [here](https://jade-dango-98e6cc.netlify.app/).
 
 ## About
 
-I am a dedicated fourth-year student pursuing a B.Sc. in Information and Communication Technology at Mahidol University, with an expected graduation in June 2025. I'm passionate about software development, programming, and engineering solutions for real-world challenges. My expertise spans both backend and full-stack development, and I am eager to contribute to innovative projects.
+ I hold a B.Sc. in Information and Communication Technology from Mahidol University, with practical experience in full-stack web development using JavaScript, Vue.js, Node.js, Express, MySQL, and Supabase. I am seeking junior developer or freelance opportunities to apply and further develop my skills in building web applications.
 
 ## Features
 
